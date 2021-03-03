@@ -1,0 +1,20 @@
+.regDiv
+{
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightgrey;
+}
+
+.center
+{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    background-color: lightgray;
+
+}
+
+h1
+{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
